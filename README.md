@@ -1,8 +1,11 @@
 # JFF Revision 1.1 JoyFix Board
 
-This is an interposer board that fixes the existing bug in the joystick circuit of the [Just For Fun (JFF) computer revision 1.1](https://github.com/konkotgit/JFF) by @skoti.
+This is an interposer board that fixes the existing bug in the joystick circuit of the [Just For Fun (JFF) computer revision 1.1](https://github.com/konkotgit/JFF) (up to revision 1.1b) by @skoti.
 
 See the [Omega 1.4 Joyfix Board](https://github.com/herraa1/omega-1.4-joyfix-board-v1) for information on a similar (but not the same) bug affecting the [Omega Home Computer mainboard revision 1.4](https://github.com/skiselev/omega) by Sergey Kiselev.
+
+> [!NOTE]
+> This fix is not needed for [JFF 1.1c](https://github.com/konkotgit/JFF?tab=readme-ov-file#revisions), which includes the joystick circuit fix as per [#3](https://github.com/konkotgit/JFF/issues/3).
 
 
 # The standard MSX joystick circuit
