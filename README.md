@@ -82,7 +82,7 @@ And the complete trigger connection diagram matches now the original MSX joystic
 
 [<img src="images/msx-jff-1.1-joyfix-board-back-render.png" width="512"/>](images/msx-jff-1.1-joyfix-board-back-render.png)
 
-[Bill Of Materials (BoM)](https://html-preview.github.io/?url=https://raw.githubusercontent.com/herraa1/JFF-1.1-joyfix-board-v1/main/hardware/kicad/JFF-joyfix-board-v1-Build1/bom/ibom.html)
+[Bill Of Materials (BoM)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/herraa1/JFF-1.1-joyfix-board-v1/main/hardware/kicad/JFF-joyfix-board-v1-Build1/bom/ibom.html)
 
 [Schematic and PCB](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fherraa1%2FJFF-1.1-joyfix-board-v1%2Ftree%2Fmain%2Fhardware%2Fkicad%2FJFF-joyfix-board-v1-Build1)
 
